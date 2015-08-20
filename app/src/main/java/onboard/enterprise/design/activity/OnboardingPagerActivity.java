@@ -20,7 +20,7 @@ import onboard.enterprise.design.fragments.OnBoardingPagerIndicator;
 import onboard.enterprise.design.fragments.OnboardingPageFragment;
 
 
-public class ViewPagerActivity extends ActionBarActivity implements
+public class OnboardingPagerActivity extends ActionBarActivity implements
         OnboardingPageFragment.OnFragmentInteractionListener,
         OnBoardingPagerIndicator.OnboardingPagerIndicatorInteractionListener{
 
@@ -62,7 +62,7 @@ public class ViewPagerActivity extends ActionBarActivity implements
 
         }
 
-        setContentView(R.layout.activity_view_pager);
+        setContentView(R.layout.onboarder_activity_);
         ActionBar actionBar = getSupportActionBar();
         actionBar.hide();
 
@@ -77,12 +77,12 @@ public class ViewPagerActivity extends ActionBarActivity implements
             }
 
             public void onPageSelected(int position) {
-                Log.i("viewpager", "onPageSelected:" + position + " Last page:" + ViewPagerActivity.this.mPagerMgr.getLastPage());
+                Log.i("viewpager", "onPageSelected:" + position + " Last page:" + OnboardingPagerActivity.this.mPagerMgr.getLastPage());
                 OnBoardingPagerIndicator lFooterFrag = (OnBoardingPagerIndicator) getSupportFragmentManager().findFragmentByTag("footer");
                 View v = lFooterFrag.getView().findViewById(R.id.pageviewindicatorcircles);
                 mPagerMgr.setCurrPage(position);
 
-                int lLastPage = ViewPagerActivity.this.mPagerMgr.getLastPage();
+                int lLastPage = OnboardingPagerActivity.this.mPagerMgr.getLastPage();
                 if (lLastPage == position) {
                     //this is an adjustment during scrolling back, hopefully the idea works - Simith
                     // do not really want to add the gesture listener
