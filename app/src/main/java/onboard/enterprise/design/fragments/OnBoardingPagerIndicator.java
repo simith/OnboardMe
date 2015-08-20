@@ -1,4 +1,4 @@
-package onboard.enterprise.design.activity;
+package onboard.enterprise.design.fragments;
 
 import android.app.Activity;
 import android.net.Uri;

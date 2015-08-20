@@ -1,14 +1,10 @@
-package onboard.enterprise.design.activity;
+package onboard.enterprise.design.fragments;
 
 import android.app.Activity;
-import android.net.Uri;
 import android.os.Bundle;
 
 import android.support.v4.app.Fragment;
-import android.util.Log;
-import android.view.GestureDetector;
 import android.view.LayoutInflater;
-import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
@@ -43,7 +39,6 @@ public class OnboardingPageFragment extends Fragment {
      * Use this factory method to create a new instance of
      * this fragment using the provided parameters.
      *
-     * @param PAGE_NUM Parameter 1.
      * @param PAGE_COLOR Parameter 2.
      * @return A new instance of fragment OnboardingPageFragment.
      */

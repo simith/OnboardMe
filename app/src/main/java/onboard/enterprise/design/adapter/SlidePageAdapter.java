@@ -4,7 +4,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
-import onboard.enterprise.design.activity.OnboardingPageFragment;
+import onboard.enterprise.design.fragments.OnboardingPageFragment;
 
 /**
  * Created by snambiar on 9/07/15.

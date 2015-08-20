@@ -1,7 +1,6 @@
 package onboard.enterprise.design.activity;
 
 import android.content.Intent;
-import android.net.Uri;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.ViewPager;
@@ -17,6 +16,8 @@ import onboard.enterprise.design.R;
 import onboard.enterprise.design.adapter.PageViewManager;
 import onboard.enterprise.design.adapter.SlidePageAdapter;
 import onboard.enterprise.design.data.Page;
+import onboard.enterprise.design.fragments.OnBoardingPagerIndicator;
+import onboard.enterprise.design.fragments.OnboardingPageFragment;
 
 
 public class ViewPagerActivity extends ActionBarActivity implements
