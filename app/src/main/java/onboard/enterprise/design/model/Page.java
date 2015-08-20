@@ -1,4 +1,4 @@
-package onboard.enterprise.design.data;
+package onboard.enterprise.design.model;
 
 /**
  * Created by snambiar on 7/07/15.
@@ -8,7 +8,6 @@ public class Page {
     String bgColor;
     int    pageNum;
     int    imgResId;
-
 
 
     public Page(){

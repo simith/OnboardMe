@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import onboard.enterprise.design.R;
-import onboard.enterprise.design.data.Page;
+import onboard.enterprise.design.model.Page;
 
 /**
  * A simple {@link Fragment} subclass.

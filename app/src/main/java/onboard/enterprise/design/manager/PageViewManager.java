@@ -1,13 +1,11 @@
 package onboard.enterprise.design.manager;
 
-import android.app.Activity;
 import android.util.Log;
 
 import java.util.LinkedList;
 import java.util.List;
 
-import onboard.enterprise.design.activity.TakeoffActivity;
-import onboard.enterprise.design.data.Page;
+import onboard.enterprise.design.model.Page;
 
 /**
  * Created by snambiar on 7/07/15.
