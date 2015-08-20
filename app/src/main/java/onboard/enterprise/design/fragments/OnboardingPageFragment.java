@@ -35,13 +35,7 @@ public class OnboardingPageFragment extends Fragment {
 
     private OnFragmentInteractionListener mListener;
 
-    /**
-     * Use this factory method to create a new instance of
-     * this fragment using the provided parameters.
-     *
-     * @param PAGE_COLOR Parameter 2.
-     * @return A new instance of fragment OnboardingPageFragment.
-     */
+
     // TODO: Rename and change types and number of parameters
     public static OnboardingPageFragment newInstance(Page pPage) {
         OnboardingPageFragment fragment = new OnboardingPageFragment();
@@ -95,16 +89,7 @@ public class OnboardingPageFragment extends Fragment {
         mListener = null;
     }
 
-    /**
-     * This interface must be implemented by activities that contain this
-     * fragment to allow an interaction in this fragment to be communicated
-     * to the activity and potentially other fragments contained in that
-     * activity.
-     * <p/>
-     * See the Android Training lesson <a href=
-     * "http://developer.android.com/training/basics/fragments/communicating.html"
-     * >Communicating with Other Fragments</a> for more information.
-     */
+
     public interface OnFragmentInteractionListener {
 
     }
