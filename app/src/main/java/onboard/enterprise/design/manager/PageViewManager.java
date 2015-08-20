@@ -9,6 +9,7 @@ import onboard.enterprise.design.model.Page;
 
 /**
  * Created by snambiar on 7/07/15.
+ * Manages pages for slides, these pages are fed to the @SlidePageAdapter
  */
 public class PageViewManager {
 
