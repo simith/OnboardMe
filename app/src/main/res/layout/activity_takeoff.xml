@@ -10,12 +10,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Take Off from here"
+        android:text="Your App takes Off from here..."
         android:id="@+id/textView"
-        android:textColor="@android:color/darker_gray"
+        android:textColor="@android:color/background_dark"
+        android:layout_marginTop="96dp"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="45dp" />
+        android:layout_centerHorizontal="true" />
 
     <ImageView
         android:layout_width="wrap_content"

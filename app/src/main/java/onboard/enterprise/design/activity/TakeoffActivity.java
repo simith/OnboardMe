@@ -14,8 +14,7 @@ public class TakeoffActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_takeoff);
-        ActionBar actionBar = getSupportActionBar();
-        actionBar.hide();
+
     }
 
     @Override

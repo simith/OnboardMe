@@ -13,7 +13,7 @@ import android.view.MenuItem;
 import android.view.View;
 
 import onboard.enterprise.design.R;
-import onboard.enterprise.design.adapter.PageViewManager;
+import onboard.enterprise.design.manager.PageViewManager;
 import onboard.enterprise.design.adapter.SlidePageAdapter;
 import onboard.enterprise.design.data.Page;
 import onboard.enterprise.design.fragments.OnBoardingPagerIndicator;

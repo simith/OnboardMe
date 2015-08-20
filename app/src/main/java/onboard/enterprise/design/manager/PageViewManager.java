@@ -1,4 +1,4 @@
-package onboard.enterprise.design.adapter;
+package onboard.enterprise.design.manager;
 
 import android.app.Activity;
 import android.util.Log;
