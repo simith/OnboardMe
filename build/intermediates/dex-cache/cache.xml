@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-f9fe9b3b37159224f7050362fddf1d5fce786db8.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-64a1322aa56f7803826137181790a96511b4f135.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-63d9297c9e7ef318314d109522d54bcd88bbd222.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-df523dd08565a2c469400275b868fe6b6bd6370b.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-0bba1ef55d60c552f3ca59ae771b12ef5dc11971.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-6244a30b6d04f95c71d030cb7770839b8ef5027a.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-0d95406a8036f64d72d450987789d5cbe6003f58.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-6bd42e93500339367c7d929faf808b28f4817996.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-a2ddcedef3a0a7c8c53646a8725b1a608402372c.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-724b17592062efa9be74d10d3bc036b7b350f7f6.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-8d2add64bedfe58d6eff0245e63c83a02842c573.jar" />
+    </item>
+    <item
+        jar="/home/snambiar/Downloads/android-studio-latest/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-d4149c45007c751bea8c91920e10fa3560cc2ce5.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-a7e6ff0437c5d5ea5c942dc6de849c66c69ea9f0.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-4637c3fe1b87c6d569c64be7719efa58cd0eaab3.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-d4339b5fe4b11263f697f3c98bd4e6fc9cedbc8a.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-881cd228a44599e15ba2e62f3e185b07dedb1207.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-2ede4e71d05e5aabd1ea3f7864c8ecb11adc6edd.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-732d2ad56f4197505ad32db28195938be24ba265.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-2c18a775ee48f62c5da878bb26fcd4b19e266b61.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-de245b4f8757c0dc7145e2378744b5ee56b6bd06.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-127c06fb016add1002bf400253dded9d2be9ce23.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0889efcadcde192d0bc69108fb0a957e5c50560b.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-5243bb4f76fc7d3c56195a3c8a99e73e618ca4b9.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-df4539cad63e8503f9a5f22511a1a7b4c1dd8e68.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-9b26b1cfb187357730f88a7ac815b8e313ee50ca.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-1c89f0201129a0fb12437afab6682311693f71b8.jar" />
+    </item>
+    <item
+        jar="/tmp/OnboardMe-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/tmp/OnboardMe-master/app/build/intermediates/pre-dexed/debug/classes-c81420056baab43273f24dd11c2c049f785df368.jar" />
+    </item>
+
+</items>

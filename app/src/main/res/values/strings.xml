@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello PAGER FRAGMENT</string>
+    <string name="hello_pager_indicator">SKIP</string>
+    <string name="title_activity_onboarder">OnboarderActivity</string>
+
+    <string name="hello_world">We found an Email account on your phone,use it?</string>
+    <string name="title_activity_home">Create a card</string>
+    <string-array name="card_type_array">
+        <item>Personal</item>
+        <item>Business</item>
+
+    </string-array>
+    <string name="title_activity_qr">Personal Card</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+    <string name="title_activity_found_email">FoundEmailActivity</string>
+    <string name="title_activity_find_email">Email</string>
+    <string name="title_activity_takeoff">TakeoffActivity</string>
+</resources>
