@@ -1,5 +1,6 @@
 package onboard.enterprise.design.activity;
 
+import android.content.Context;
 import android.content.Intent;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
@@ -18,6 +19,9 @@ import onboard.enterprise.design.adapter.SlidePageAdapter;
 import onboard.enterprise.design.model.Page;
 import onboard.enterprise.design.fragments.OnBoardingPagerIndicator;
 import onboard.enterprise.design.fragments.OnboardingPageFragment;
+import onboard.enterprise.design.util.OnboardingSharedPref;
+
+import static android.content.Context.MODE_PRIVATE;
 
 
 public class OnboardingPagerActivity extends ActionBarActivity implements
@@ -81,6 +85,7 @@ public class OnboardingPagerActivity extends ActionBarActivity implements
                 OnBoardingPagerIndicator lFooterFrag = (OnBoardingPagerIndicator) getSupportFragmentManager().findFragmentByTag("footer");
                 View v = lFooterFrag.getView().findViewById(R.id.pageviewindicatorcircles);
                 mPagerMgr.setCurrPage(position);
+                saveSharedPrefState();
 
                 int lLastPage = OnboardingPagerActivity.this.mPagerMgr.getLastPage();
                 if (lLastPage == position) {
@@ -98,6 +103,13 @@ public class OnboardingPagerActivity extends ActionBarActivity implements
 
             }
         });
+
+        saveSharedPrefState();
+    }
+
+    private void saveSharedPrefState() {
+
+        OnboardingSharedPref.saveState(getPreferences(Context.MODE_PRIVATE),mPagerMgr.getCurrPage());
     }
 
     @Override
@@ -150,6 +162,7 @@ public class OnboardingPagerActivity extends ActionBarActivity implements
     public void onNext() {
 
         this.mViewPager.setCurrentItem(this.mPagerMgr.getCurrPage() + 1);
+        saveSharedPrefState();
 
     }
 

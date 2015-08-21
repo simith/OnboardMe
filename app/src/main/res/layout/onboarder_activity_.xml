@@ -5,7 +5,7 @@
     android:weightSum="1.0"
 
     android:orientation="vertical"
-    tools:context="onboard.enterprise.design.activity.ViewPagerActivity">
+    tools:context="onboard.enterprise.design.activity.OnboardingPagerActivity">
 
     <android.support.v4.view.ViewPager
 
