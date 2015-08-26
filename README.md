@@ -4,7 +4,7 @@ A Mobile User Onboarding flow for android Apps
 # Using the code
 
 Bulk of the code for startup and init is under OnboardingPagerActivity.java
-
+```
 mPagerMgr = new PageViewManager();
 mPagerMgr.init();
 mPagerMgr.setTakeoffActivity(TakeoffActivity.class);
@@ -17,7 +17,7 @@ p = new Page(1, "#354ABC", R.drawable.two);
 mPagerMgr.addPage(p);
 p = new Page(2, "#23f353", R.drawable.onboard3);
 mPagerMgr.addPage(p);
-
+```
 
 # TODO
 
