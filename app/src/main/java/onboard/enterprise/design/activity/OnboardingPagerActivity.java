@@ -28,7 +28,6 @@ public class OnboardingPagerActivity extends ActionBarActivity implements
         OnboardingPageFragment.OnFragmentInteractionListener,
         OnBoardingPagerIndicator.OnboardingPagerIndicatorInteractionListener{
 
-
     private PageViewManager mPagerMgr; //manages the slides/pages
     private ViewPager mViewPager; //slides
     private OnBoardingPagerIndicator onp; //the control at the bottom
