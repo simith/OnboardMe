@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Material Design</string>
+    <string name="app_name">OnboardMe</string>
     <string name="action_settings">Settings</string>
     <string name="action_search">Search</string>
     <string name="drawer_open">Open</string>
@@ -36,5 +36,5 @@
     <string name="title_activity_view_pager">ViewPagerActivity</string>
     <string name="title_activity_found_email">FoundEmailActivity</string>
     <string name="title_activity_find_email">Email</string>
-    <string name="title_activity_takeoff">TakeoffActivity</string>
+    <string name="title_activity_takeoff">App Takes off here</string>
 </resources>
