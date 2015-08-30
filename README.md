@@ -1,5 +1,6 @@
 # OnboardMe
 A Mobile User Onboarding flow for android Apps
+![alt tag](http://www.androidpolice.com/wp-content/uploads/2014/10/nexus2cee_Screenshot_2014-10-20-22-10-16.png)
 
 # Using the code
 
