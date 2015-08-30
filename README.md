@@ -21,6 +21,8 @@ mPagerMgr.addPage(p);
 
 # TODO
 
+- [ ] Animate slide changes with fade in and fade out tranformation as seen in the Google Docs app
+- [ ] Provide an API for setting different animation types to the Page Manager. 
 - [ ] Make complete views passed as input to the PageManager instead of just images
 - [ ] Make the Page indicator change color based on the dominant color of the Page/Slide
 - [ ] Make the list of images for slides a string array and pass it in the Intent for the OnboardingPagerActivity activity bundle.
