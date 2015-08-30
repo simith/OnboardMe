@@ -21,5 +21,6 @@ mPagerMgr.addPage(p);
 
 # TODO
 
-Make the list of images for slides a string array and pass it in the Intent for the OnboardingPagerActivity activity bundle.
+- [ ] a task list item
+- [ ] Make the list of images for slides a string array and pass it in the Intent for the OnboardingPagerActivity activity bundle.
 
