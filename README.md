@@ -21,6 +21,9 @@ mPagerMgr.addPage(p);
 
 # TODO
 
-- [ ] a task list item
+- [ ] Make complete views passed as input to the PageManager instead of just images
+- [ ] Make the Page indicator change color based on the dominant color of the Page/Slide
 - [ ] Make the list of images for slides a string array and pass it in the Intent for the OnboardingPagerActivity activity bundle.
+- [ ] Make the source code a Library instead of an Android Project
+- [ ] Refactor code to make the API easy to configure and use in Apps
 
